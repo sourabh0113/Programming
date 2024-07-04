@@ -7,6 +7,7 @@ int main(){
     cout<<"addition of two number";
     cin>>a>>b;
 
+
     cout<<"\naddition"<<a+b;
     return 0;
 
